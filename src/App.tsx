@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Rounting from 'app/router/Rounting';
 import { ThemeProvider } from '@material-ui/core'
-import theme from './theme';
+import theme from './theme.js';
 
 const App: React.FC = () => (
   <ThemeProvider theme={theme}>
