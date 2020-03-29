@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from '../bar/Sidebar';
+import Sidebar from 'app/bar/Sidebar';
 
 const Homepage: React.FC = () => (
     <>

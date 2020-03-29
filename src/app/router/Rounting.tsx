@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router';
-import Homepage from '../page/Homepage';
+import Homepage from 'app/page/Homepage';
 
 const Rounting: React.FC = () => (
     <Switch>
